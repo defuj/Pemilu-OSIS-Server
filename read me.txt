@@ -1,0 +1,3 @@
+1. Koneksi database web service : folder user/dbConfig.php
+2. koneksi database web admin : folder admin/fungsi/koneksi.php
+3. ubah alamat link (http://192.168.173.2) di file admin/bagian/diagram.php
